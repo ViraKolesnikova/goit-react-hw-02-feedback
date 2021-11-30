@@ -1,0 +1,12 @@
+.statisticsItem {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 18px;
+  font-size: 22px;
+}
+
+.itemText {
+  margin-right: 16px;
+  text-transform: capitalize;
+}
